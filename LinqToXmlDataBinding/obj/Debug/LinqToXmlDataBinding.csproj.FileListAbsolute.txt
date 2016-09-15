@@ -1,0 +1,14 @@
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\bin\Debug\LinqToXmlDataBinding.exe.config
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\bin\Debug\LinqToXmlDataBinding.exe
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\bin\Debug\LinqToXmlDataBinding.pdb
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.csprojResolveAssemblyReference.cache
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\L2XDBForm.g.cs
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\App.g.cs
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding_MarkupCompile.cache
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding_MarkupCompile.lref
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\L2XDBForm.baml
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.g.resources
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.Properties.Resources.resources
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.csproj.GenerateResource.Cache
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.exe
+c:\users\tom n jo\documents\visual studio 2015\Projects\LinqToXmlDataBinding\LinqToXmlDataBinding\obj\Debug\LinqToXmlDataBinding.pdb
