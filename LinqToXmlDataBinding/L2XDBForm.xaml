@@ -4,7 +4,7 @@
     xmlns:system="clr-namespace:System;assembly=mscorlib"
     xmlns:xlinq="clr-namespace:System.Xml.Linq;assembly=System.Xml.Linq"
     xmlns:local="clr-namespace:LinqToXmlDataBinding"
-    Title="WPF Data Binding using LINQ-to-XML" Height="665" Width="500" ResizeMode="NoResize">
+    Title="WPF Data Binding using LINQ-to-XML" Height="685" Width="500" ResizeMode="NoResize">
 
     <Window.Resources>
         <!-- Books provider and inline data -->
